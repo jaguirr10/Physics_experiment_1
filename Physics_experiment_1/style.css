@@ -1,0 +1,66 @@
+
+body {
+	
+	color: #ddd;
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-top: 0.2em;
+  overflow-y:hidden;
+  overflow-x:hidden;
+  
+}
+
+
+body {
+	
+	
+background: #2C3E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+height: 100vh;
+
+}
+
+
+
+
+.canvas-container {
+	position: relative;
+	display: inline-block;
+	background: #222;
+	margin-top: 100px;
+}
+
+.framerate {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.6em 0;
+}
+
+h1 { font-size: 2em; color: #bbb; }
+h2 { font-size: 1.5em; }
+
+
+h1 
+{
+  margin-top: 70px;
+}
+
+.r2{
+
+margin-top: -200px;
+
+}
+
+
+
+
+
